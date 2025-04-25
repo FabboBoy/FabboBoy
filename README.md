@@ -1,4 +1,3 @@
-<h1><code>H</code><code>o</code><code>l</code><code>a</code></h1>
 
 ![alt text](cooltext481293999857655.png)
 
@@ -8,6 +7,7 @@
   <tr>
     <th align="center">🖥️ Frontend</th>
     <th align="center">⚙️ Backend</th>
+    <th align="center">🎨 Otros</th>
   </tr>
   <tr>
     <td align="center">
@@ -31,6 +31,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" alt="Markdown"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" alt="Markdown"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
     </td>
   </tr>
 </table>
